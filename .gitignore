@@ -1,6 +1,6 @@
 # Encrypted seed (sensitive)
 encrypted_seed.txt
-
+seed.txt
 # Python cache
 __pycache__/
 *.pyc
